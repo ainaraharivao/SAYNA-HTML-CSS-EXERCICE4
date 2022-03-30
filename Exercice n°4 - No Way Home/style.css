@@ -1,0 +1,21 @@
+@font-face {
+    font-family:Homecoming;
+    src: url(./Assets/Far-From\ Homecoming\ Updated.otf);
+}
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+h1{
+    font-family:Homecoming;
+    font-size: 4rem;
+}
+
+
+
+
+h2{
+    font-family:Homecoming;
+}

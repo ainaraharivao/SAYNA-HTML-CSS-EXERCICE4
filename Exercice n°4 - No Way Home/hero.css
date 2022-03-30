@@ -1,0 +1,37 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#imageprincipale {
+    padding-top: 10rem;
+    background-image: url(assets/Illustration/img19.png);
+    background-size: cover;
+    height: 500px;
+  
+   }
+
+   @font-face {
+    font-family:Homecoming;
+    src: url(./Assets/Far-From\ Homecoming\ Updated.otf);
+}
+
+H1 {
+    font-family: Homecoming;
+    color: #ffff;
+    font-size: 6rem;
+    padding-left: 9rem;
+    margin-top: 6rem;
+}
+
+h3 {
+    font-family: homecoming;
+}
+
+#secondeimage {
+    padding-top: 10rem;
+    background-image: url(assets/Illustration/img20.png);
+    background-size: cover;
+    height: 400px;
+}
