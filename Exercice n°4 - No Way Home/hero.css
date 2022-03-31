@@ -25,7 +25,7 @@ H1 {
     margin-top: 6rem;
 }
 
-h3 {
+h3, h2 {
     font-family: homecoming;
 }
 
@@ -34,4 +34,10 @@ h3 {
     background-image: url(assets/Illustration/img20.png);
     background-size: cover;
     height: 400px;
+}
+
+#derniereimage {
+    background: url(assets/Illustration/img33.png) no-repeat;
+    background-size: auto;
+    height: 670px; 
 }
