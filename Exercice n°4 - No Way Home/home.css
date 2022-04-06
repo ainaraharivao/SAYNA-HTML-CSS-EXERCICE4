@@ -42,12 +42,19 @@ h3, h4{
 @media  (min-width:768px) {
     #form {
         margin-left: 50rem;
-
     } 
+
     #form2 {
         margin-right: 10rem !important;
-
     }
+
+    @media  (max-width:768px) {
+        #form2{
+            text-align: center;
+            margin-right: 200px;
+        }
+      }
+
     .style{
         padding-left: 5rem;
     }
@@ -58,4 +65,19 @@ h3, h4{
   }
 }
 
+
+@media  (max-width:768px) {
+    h1{ font-size: 2rem;
+    
+    }
+  }
+
+  @media  (max-width:768px) {
+    #imageprincipale{
+     height: 396px;
+     padding-left: 1rem;
+    padding-top: 3rem;
+    
+    }
+  }
 
